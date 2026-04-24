@@ -120,7 +120,7 @@ output 2
 }
 
   ┌─────────────────────────────────────────┐
-  │         ?  SUBMISSION RESULT          │
+  │         ?  SUBMISSION RESULT            │
   └─────────────────────────────────────────┘
   Server Response: no available server
 
