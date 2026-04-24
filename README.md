@@ -14,6 +14,7 @@ java QuizLeaderboard
 Diana: 470 | Ethan: 455 | Fiona: 440 | Total: 1365
 
 Output 1
+
   ╔══════════════════════════════════════════╗
   ║     BAJAJ FINSERV HEALTH ? QUALIFIER     ║
   ║         Quiz Leaderboard Engine          ║
